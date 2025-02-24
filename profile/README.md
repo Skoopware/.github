@@ -34,7 +34,7 @@ When creating a new repository under **Skoopflow**, please follow these steps:
 Every repository **must include** our standard `.gitignore` file to avoid committing unnecessary files (e.g., dependencies, environment variables, build artifacts).  
 
 📥 **Download or copy the `.gitignore` file from**:  
-👉 [Skoopflow Standard .gitignore](.././gitignore-template)  
+👉 [Skoopflow Standard .gitignore](.././.gitignore-template)  
 
 ---
 
