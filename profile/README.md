@@ -3,7 +3,6 @@
 Here is a quick guide for all members:  
 - **[Development Environment Setup](#development-environment-setup)**  
 - **[Add Repositories to the Organization](#how-to-add-a-repository-to-the-organization)**  
-- **[Frequently Asked Questions](FAQ.md)**  
 - **[Example Repositories](#example-repositories)**  
 
 ---
@@ -14,13 +13,13 @@ Welcome to the **Skoopflow Organization**! This guide will help you navigate our
 
 ---
 
-## 🔧 Development Environment Setup  
+## Development Environment Setup  
 
 Before contributing, ensure you have your local development environment set up properly. Follow the steps listed [Here](https://docs.bmc.com/xwiki/bin/view/Service-Management/Innovation-Suite/BMC-Helix-Platform/helixplatform/Developing-applications/Developing-and-deploying-code-based-applications/Setting-up-the-environment-to-develop-a-code-based-application/Setting-up-your-IDE-and-installing-BMC-Helix-Platform-SDK/).
 
 ---
 
-## 🚀 How to Add a Repository to the Organization  
+##  How to Add a Repository to the Organization  
 
 When creating a new repository under **Skoopflow**, please follow these steps:  
 
@@ -38,7 +37,7 @@ Every repository **must include** our standard `.gitignore` file to avoid commit
 
 ---
 
-## 📂 Example Repositories  
+##  Example Repositories  
 
 For reference, here you can find sample Java and Angular code showing different functionality:
 
